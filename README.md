@@ -1,3 +1,2 @@
 - My name is jacob, or @jacob-devel on here
-- I am interested in efficient programming paradigms, linux, and open source software
-- You can reach me on discord (Jacob#0611) or at my email (jacob.leblanc525@gmail.com)
+- I am interested in low level programming, linux, and open source software
