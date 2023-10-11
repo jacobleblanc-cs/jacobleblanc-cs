@@ -1,2 +1,2 @@
 - My name is jacob, or @jacob-devel on here
-- I am interested in low level programming, linux, and open source software
+- I am interested in low level programming and open source software
