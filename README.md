@@ -1,2 +1,4 @@
-- My name is jacob, or @jacob-devel on here
-- I am interested in low level programming and open source software
+- Jacob LeBlanc
+- App State 2024
+- Studying CS and Math
+- Interested in low-level and systems programming, operating systems, and open source software
