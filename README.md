@@ -1,5 +1,5 @@
 ## Hello! Here's a little about me...
-- My name is Jacob LeBlanc!
+- My name is Jacob LeBlanc
 - Studied at App State. I graduated December, 2024
 - Studied computer science and mathematics (computation concentration).
 - Interested in low-level and systems programming, operating systems, and open source software.
