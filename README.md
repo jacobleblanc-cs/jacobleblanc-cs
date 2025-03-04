@@ -11,4 +11,6 @@
 - Learning about machine learning and memory safe languages
 - Refreshing my knowledge on data structures
 - Practicing programming skills for job interviews
+- Learning French (CEFR A2)
+- Learning Mandarin (HSK1)
 - Looking for work!
